@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the jad feature.
+ */
+
+include_once 'jad.features.inc';
